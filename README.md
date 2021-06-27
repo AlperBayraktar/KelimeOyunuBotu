@@ -34,9 +34,9 @@ Bu bot Kodluyoruz JR. Discord Botu Yapma Hackathon'u için yapılmıştır.
 - Not: PomodoroBot no-admin.py'ı tek başına çalıştırabilirsiniz. Fakat admin paneli ile çalıştırmak istiyorsanız json-server'ı çalıştırdıktan sonra PomodoroBot-admin.py'ı çalıştırmalısınız.
 - Not 2: Bot dosyasını terminal üzerinden çalıştırmak daha iyi olacaktır.
 
-## Admin Paneli Kullanımı
+## Basit Admin Panelinin Kullanımı
 
--admin-panel dizinine gelin
+- admin-panel dizinine gelin
 
 - ardından json-server'i çalıştırın
 
