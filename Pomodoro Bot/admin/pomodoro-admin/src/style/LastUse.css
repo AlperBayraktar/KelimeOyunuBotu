@@ -1,0 +1,11 @@
+.last-use {
+  margin-top: 30px;
+}
+
+.last-use:nth-child(1) {
+  margin-top: 1.2rem;
+}
+
+.last-use-alt {
+  display: flex;
+}

@@ -1,0 +1,21 @@
+{
+  "default": {
+    "study": 25,
+    "break": 10
+  },
+  "last_30_use": [],
+  "texts": [
+    {
+      "id": 1,
+      "title": "$bot yardım",
+      "content": "The Domates Nasıl kullanılır?\n\n$bot başlat: Daha öncesinde ayarlamış olduğunuz ya da durdurduğunuz sayacı başlatabilirsiniz. Sayaç otomatik bir şekilde saymaya başlayacaktır. Eğer ki bir süre ayarlamamışsanız, sayaç hazır ayarlarda başlayacaktır.\n\n$bot durdur: Başlatmış olduğunuz sayacı durdurabilirsiniz.\n\n$bot sayaç_sıfırla: Sayma işlemini sıfırlayabilirsiniz.\n\n----------------------------------\n\n$bot ayarla dakika: Çalışma süresini dakika yerine yazılan sayıya ayarlar. (Mola süresi 5 dakikadır.)\n\n$bot ayar_sıfırla: Süre ayarını hazır ayarla değiştirir. Hazır ayar 25 dakika çalışma, 5 dakika moladır.\n\n$bot ayar_bilgi: O anki süre ayarı hakkında bilgi verir.",
+      "tagID": "help"
+    },
+    {
+      "id": 2,
+      "title": "$bot pomodoro",
+      "content": "Pomodoro Tekniği, 1980'lerin sonunda Francesco Cirillo tarafından geliştirilen bir zaman yönetimi yöntemidir. Çalışma geleneksel olarak 25 dakika uzunluğunda, kısa molalarla ayrılır. Bunun içinse zamanlayıcı kullanılır. Her aralık, Cirillo'nun üniversite öğrencisiyken kullandığı domates şeklindeki mutfak zamanlayıcısından sonra, İtalyanca 'domates' kelimesinden bir pomodoro olarak ifade edilmeye başlanır.  Botumuzun ismi olan The Domates buradan esinlenerek bulunmuştur.",
+      "tagID": "info"
+    }
+  ]
+}

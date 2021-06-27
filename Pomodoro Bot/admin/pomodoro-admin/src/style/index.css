@@ -1,0 +1,47 @@
+:root {
+  --main: #6610f2;
+  padding: 25px 40px;
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 5px 0;
+  font-weight: 400;
+}
+
+.container {
+  background-color: var(--main);
+  color: white;
+  padding: 10px 20px;
+  box-shadow: 0 5px 30px 0 rgba(0, 0, 0, 0.6), 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+}
+
+.containers {
+  display: block;
+}
+
+.btn {
+  background-color: #6f42c1;
+  color: white;
+  padding: 10px 15px;
+  font-size: 16px;
+  border-radius: 7%;
+  border: none;
+  cursor: pointer;
+}
+
+.container {
+  width: 100;
+  margin-bottom: 40px;
+}
+
+.note {
+  margin-bottom: 12px;
+}
