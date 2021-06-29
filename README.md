@@ -33,6 +33,7 @@ Bu bot Kodluyoruz JR. Discord Botu Yapma Hackathon'u için yapılmıştır.
 - TOKEN.txt dosyasına bot token'nını girin
 - Not: PomodoroBot no-admin.py'ı tek başına çalıştırabilirsiniz. Fakat admin paneli ile çalıştırmak istiyorsanız json-server'ı çalıştırdıktan sonra PomodoroBot-admin.py'ı çalıştırmalısınız.
 - Not 2: Bot dosyasını terminal üzerinden çalıştırmak daha iyi olacaktır.
+- Not 3: Komutları görmek için $bot yardım yazınız.
 
 ## Admin Panelinin Kullanımı
 
