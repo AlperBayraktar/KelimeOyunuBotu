@@ -1,1 +1,1 @@
-token'i buraya yerleştirin
+token'i buraya yerleştirin, boşluklara dikkat edin
