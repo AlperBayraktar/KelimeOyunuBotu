@@ -1,7 +1,7 @@
 
 ## The Domates - Pomodoro Botu
 
-Bu bot Kodluyoruz JR. Discord Botu Yapma Hackathon'u için yapılmıştır.
+Bu bot Kodluyoruz JR. Discord Botu Yapma Hackathon'u için yapılmış ve 2. olmuştur.
 
 
 
